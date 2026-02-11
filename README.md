@@ -18,10 +18,10 @@
 ### ТЕХНИЧЕСКИЕ НАВЫКИ
 
 *   **ОС и Сети:** Администрирование Windows, Linux (Ubuntu/Debian/CentOS), Bash-скриптинг, понимание модели OSI, TCP/IP, DNS, SSH.
-*   **Контейнеризация и Оркестрация:** Docker, Docker Compose, основы Kubernetes (k8s).
+*   **Контейнеризация и Оркестрация:** Docker, Docker Compose, Kubernetes (k8s).
 *   **Infrastructure as Code (IaC):** Terraform, Ansible.
 *   **CI/CD:** GitLab CI, GitHub Actions (базово Jenkins).
-*   **Мониторинг и Логирование:** Prometheus, Grafana, ELK Stack (базово).
+*   **Мониторинг и Логирование:** Prometheus, Grafana, ELK Stack.
 *   **Веб-серверы:** Nginx, Apache.
 *   **Облачные провайдеры:** Yandex Cloud.
 *   **Языки программирования:** Python (написание скриптов для автоматизации).
@@ -56,6 +56,21 @@
 *   **Стек:** Prometheus, Grafana, Node Exporter.  
 *   **Результат:** Развернул систему мониторинга для сбора метрик с нескольких серверов и настроил дашборды в Grafana для визуализации нагрузки на CPU, RAM и диск.
 
+**4. Курсовая работа на профессии "DevOps-инженер с нуля"
+
+Ссылка: https://github.com/Dmitriy-py/Coursework-for-the-DevOps-Engineer-from-Scratch-profession
+
+Используемые технологии
+
+*   **Облачная платформа:** Yandex Cloud
+*   **Infrastructure as Code (IaC):** Terraform
+*   **Configuration Management:** Ansible
+*   **Сбор метрик:** Prometheus
+*   **Логирование:** Loki, Promtail
+*   **Визуализация:** Grafana
+*   **Веб-сервер:** Nginx
+*   **Контейнеризация:** Docker
+*   **Дополнительно:** Bash, Git
 ---
 
 ### КЛЮЧЕВЫЕ КАЧЕСТВА
