@@ -1,7 +1,7 @@
 # РЕЗЮМЕ
 
 **Имя:** Дмитрий Климов  
-**Специализация:** Junior DevOps Engineer  
+**Специализация:** DevOps Engineer  
 **Локация:** [Тамбов]  
 **Контакты:**  
 - Email: [dik.demon@mail.ru]  
