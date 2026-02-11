@@ -5,7 +5,7 @@
 **Локация:** [Тамбов]  
 **Контакты:**  
 - Email: [dik.demon@mail.ru]  
-- Telegram: @[dmitriyklimo]  
+- Telegram: [@dmitriyklimo]  
 - GitHub: [https://github.com/Dmitriy-py]
 
 ---
