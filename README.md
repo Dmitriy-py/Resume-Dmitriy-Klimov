@@ -1,74 +1,72 @@
 # РЕЗЮМЕ
 
-# Дмитрий Климов | DevOps Engineer
+<p align="center">
+  <img src="" />
+</p>
 
-<p align="left">
-<a href="https://t.me/dmitriyklimo">
-  <img src="" />
-</a>
-<a href="mailto:dik.demon@mail.ru">
-  <img src="" />
-</a>
+<p align="center">
+  <a href="https://t.me/dmitriyklimo"><img src="" /></a>
+  <a href="mailto:dik.demon@mail.ru"><img src="" /></a>
+  <a href="https://github.com/Dmitriy-py"><img src="" /></a>
 </p>
 
 ---
 
 ### 🎯 Профессиональный профиль
-Квалифицированный **DevOps-инженер** с глубоким бэкграундом в промышленной автоматизации (КИПиА). Специализируюсь на проектировании и внедрении отказоустойчивых IT-инфраструктур. Имею практический опыт автоматизации полного цикла доставки ПО (CI/CD), управления контейнеризированными средами и построения систем глубокого мониторинга (Observability).
 
-**Ключевые компетенции:**
-- Проектирование облачной инфраструктуры (IaC) с фокусом на масштабируемость.
-- Оркестрация микросервисных архитектур (Kubernetes, Docker Swarm).
-- Автоматизация конфигураций и устранение "дрейфа" настроек (Ansible).
-- Администрирование и тюнинг баз данных (SQL, OLAP).
+Я — **DevOps-инженер** с «красным» дипломом Нетологии и серьезным инженерным бэкграундом (КИПиА). Специализируюсь на автоматизации сложных систем и построении отказоустойчивых облачных сред.
 
----
-
-### 🛠️ Техническая экспертиза по стеку
-
-| Направление | Детализированные навыки |
-|--- |--- |
-| **Оркестрация** | **Kubernetes:** Развертывание кластеров (Kubespray), работа с манифестами, Ingress-контроллеры, ConfigMaps/Secrets. <br> **Docker Swarm:** Настройка кластеров, управление стеками и сервисами в production-ready окружениях. |
-| **Контейнеризация** | **Docker:** Создание оптимизированных (multi-stage) Dockerfiles, управление сетями и volumes. <br> **Docker Compose:** Описание сложных многокомпонентных сред для разработки и тестов. |
-| **Infrastructure as Code** | **Terraform:** Декларативное описание ресурсов в Yandex Cloud (VPC, Compute, S3, IAM). <br> **Ansible:** Написание ролей, идемпотентных плейбуков, управление парком Linux-серверов. |
-| **Базы данных** | **SQL:** Администрирование PostgreSQL и MySQL (установка, бэкапы, базовый тюнинг). <br> **OLAP:** Развертывание ClickHouse для аналитических задач и работы с логами. |
-| **CI/CD** | **GitHub Actions / GitLab CI:** Создание пайплайнов сборки (Build), тестирования (Test) и автоматического деплоя (Deploy). Контроль версий артефактов. |
-| **Observability** | **Prometheus & Grafana:** Сбор метрик, создание кастомных дашбордов, настройка алертинга. <br> **Loki & ELK:** Централизованный сбор и анализ логов всей системы. |
-| **Системное ПО** | **Linux (Debian/Ubuntu/CentOS):** Траблшутинг, работа с правами, процессами, системными вызовами и Bash-автоматизацией. |
+*   **Мой подход:** Infrastructure as Code (IaC) — это не просто мода, а стандарт стабильности.
+*   **Сильная сторона:** Умение работать на стыке «железа» и программного обеспечения, глубокое понимание системной логики.
+*   **Цель:** Оптимизация процессов разработки (Time-to-Market) без потери качества и безопасности.
 
 ---
 
-### 🚀 Реализованные проекты
+### 🛠️ Технический арсенал
 
-#### [PROJECT 01] Развертывание высокодоступной среды в Yandex Cloud (Дипломная работа)
-**Задача:** Спроектировать и реализовать "с нуля" инфраструктуру для приложения, устойчивую к отказу одной из зон доступности.
-- **Результат:** 
-    - С помощью **Terraform** реализована сетевая топология в 3-х зонах доступности с NAT-шлюзами.
-    - Развернут и настроен **Kubernetes** кластер (через Kubespray), обеспечивающий автоматическое масштабирование и самовосстановление сервисов.
-    - Внедрен стек **Prometheus/Loki/Grafana**, что позволило сократить время обнаружения инцидентов (MTTD) на 70%.
-    - Настроен **CI/CD пайплайн**, автоматизирующий релизный цикл.
+| Категория | Технологии и инструменты |
+| :--- | :--- |
+| **Orchestration** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **IaC & Config** | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat-square&logo=clickhouse&logoColor=black) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-777777?style=flat-square&logo=grafana&logoColor=white) |
+| **Cloud & OS** | ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-000000?style=flat-square&logo=yandexcloud) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-#### [PROJECT 02] Конфигурация и оркестрация баз данных
-**Задача:** Организовать стабильную среду для хранения данных приложения и логов.
-- **Результат:**
-    - Развернуты инстансы **PostgreSQL** и **MySQL** в Docker-контейнерах с сохранением стейта через Persistent Volumes.
-    - Настроен **ClickHouse** для высокоскоростной обработки логов, поступающих из Promtail.
-    - Описаны Ansible-роли для автоматического обновления конфигураций БД без простоя сервиса.
+---
+
+### 🚀 Выполненные проекты (Кейсы)
+
+#### 💎 Дипломный проект: "Infrastructure-as-Service в Yandex Cloud"
+> Построение полностью автоматизированной среды для отказоустойчивого приложения.
+*   **Результат:** Развернута сеть в 3-х зонах доступности через **Terraform**.
+*   **Оркестрация:** Настроен кластер **Kubernetes** (через Kubespray), настроены Ingress-контроллеры.
+*   **CI/CD:** Реализован полный цикл доставки кода из GitHub в K8s.
+*   **Observability:** Настроен мониторинг и логирование всей инфраструктуры (Prometheus/Loki).
+*   **[🔗 Изучить код проекта](https://github.com/Dmitriy-py/Graduation-project)**
+
+#### 📊 Аналитическая подсистема логирования
+> Разработка решения для сбора и анализа логов с использованием ClickHouse.
+*   **Результат:** Оптимизировал хранение логов, внедрив ClickHouse как основное хранилище, что позволило ускорить поиск по логам в 5 раз.
+*   **Стек:** Docker Swarm, Ansible, ClickHouse, Promtail.
 
 ---
 
 ### 🎓 Образование
-- **Красный диплом (DevOps-инженер)** | Университет «Нетология» (2025).
-- **Среднее специальное (Инженер КИПиА)** | Фундаментальные знания в области автоматизированных систем управления и электроники.
+*   📜 **Университет «Нетология»** | DevOps-инженер (Красный диплом)
+*   🛠️ **Среднее специальное** | Слесарь КИПиА (Инженер по автоматизации)
 
 ---
 
-### 💬 Soft Skills & Контакты
-Я сторонник культуры **DevOps**, где коммуникация и автоматизация идут рука об руку. Понимаю бизнес-ценность быстрой доставки фич и минимизации рисков.
-
-- **Telegram:** [@dmitriyklimo](https://t.me/dmitriyklimo)
-- **Email:** [dik.demon@mail.ru](mailto:dik.demon@mail.ru)
-
+### 📈 Статистика GitHub
 <p align="center">
   <img src="" alt="GitHub Stats" />
+  <img src="" alt="Top Langs" />
+</p>
+
+---
+
+<p align="center">
+  Буду рад обсудить интересные проекты и задачи! 🤝
 </p>
